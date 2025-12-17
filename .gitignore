@@ -1,0 +1,6 @@
+node_modules/
+*.log
+.DS_Store
+
+# Keep dist/ folder - it's needed for the action to work
+# dist/ is committed so users don't need to build
